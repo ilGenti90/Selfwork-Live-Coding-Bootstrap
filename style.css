@@ -19,7 +19,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 
 .header-custom{
     height: 110vh;
-    background-image: url("media /bg-1.jpg");
+    background-image:url("media /bg-1.jpg");
     width: 100%;
     object-fit: contain;
     overflow: hidden;
