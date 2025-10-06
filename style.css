@@ -19,7 +19,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 
 .header-custom{
     height: 110vh;
-    background-image:url("media /bg-1.jpg");
+    background-image:url("media/bg-1.jpg");
     width: 100%;
     object-fit: contain;
     overflow: hidden;
@@ -78,7 +78,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 /* INIZIO SEZIONE FORM */
 
 .sezione-form{
-    background-image: url("media /bg-2.jpg");
+    background-image: url("media/bg-2.jpg");
     background-size:cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 /* INIZIO MARCO INSABATO */
 
 .sezione2{
-    background-image: url("media /bg-3.jpg");
+    background-image: url("media/bg-3.jpg");
     background-size:cover;
     height: 100vh;
     background-repeat: no-repeat;
