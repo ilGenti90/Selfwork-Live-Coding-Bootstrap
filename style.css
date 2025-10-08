@@ -19,7 +19,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 
 .header-custom{
     height: 110vh;
-    background-image:url("media/bg-1.jpg");
+    background-image: url("bg-1.jpg");
     width: 100%;
     object-fit: contain;
     overflow: hidden;
@@ -78,7 +78,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 /* INIZIO SEZIONE FORM */
 
 .sezione-form{
-    background-image: url("media/bg-2.jpg");
+    background-image: url("bg-2.jpg");
     background-size:cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 .form{
     background-color: rgb(27, 21, 65);
     width: 460px;
-    height: 630px;
+    height: 610px;
     border-radius: 20px;
     margin-top: 100px;
     color: antiquewhite;
@@ -173,7 +173,7 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 /* INIZIO MARCO INSABATO */
 
 .sezione2{
-    background-image: url("media/bg-3.jpg");
+    background-image:url("bg-3.jpg");
     background-size:cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -211,3 +211,19 @@ P.s. non ti preoccupare se il docente a lezione ha usato i comandi di git. Li ve
 
 /* FINE FOOTER */
 
+/* media query */
+@media screen and ( max-width:720px ) {
+    
+    .form{
+        width: 350px;
+        height: 470px;
+    }
+    
+    .nobordi{
+        width: auto;
+    }
+    
+    .bottone-form{
+        width: 300px;
+    }
+}
